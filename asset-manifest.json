@@ -1,13 +1,29 @@
 {
   "files": {
     "main.css": "/pet-project-yami/static/css/main.7acaea2f.css",
-    "main.js": "/pet-project-yami/static/js/main.07d3183d.js",
+    "main.js": "/pet-project-yami/static/js/main.b33d7f15.js",
+    "static/js/114.6fd10d22.chunk.js": "/pet-project-yami/static/js/114.6fd10d22.chunk.js",
+    "static/js/674.3b4b5e6e.chunk.js": "/pet-project-yami/static/js/674.3b4b5e6e.chunk.js",
+    "static/js/789.e949b590.chunk.js": "/pet-project-yami/static/js/789.e949b590.chunk.js",
+    "static/js/683.36caae6f.chunk.js": "/pet-project-yami/static/js/683.36caae6f.chunk.js",
+    "static/js/103.9ef96e9d.chunk.js": "/pet-project-yami/static/js/103.9ef96e9d.chunk.js",
+    "static/js/597.75314899.chunk.js": "/pet-project-yami/static/js/597.75314899.chunk.js",
+    "static/js/925.d36500cd.chunk.js": "/pet-project-yami/static/js/925.d36500cd.chunk.js",
+    "static/js/442.b751bfa8.chunk.js": "/pet-project-yami/static/js/442.b751bfa8.chunk.js",
     "index.html": "/pet-project-yami/index.html",
     "main.7acaea2f.css.map": "/pet-project-yami/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/pet-project-yami/static/js/main.07d3183d.js.map"
+    "main.b33d7f15.js.map": "/pet-project-yami/static/js/main.b33d7f15.js.map",
+    "114.6fd10d22.chunk.js.map": "/pet-project-yami/static/js/114.6fd10d22.chunk.js.map",
+    "674.3b4b5e6e.chunk.js.map": "/pet-project-yami/static/js/674.3b4b5e6e.chunk.js.map",
+    "789.e949b590.chunk.js.map": "/pet-project-yami/static/js/789.e949b590.chunk.js.map",
+    "683.36caae6f.chunk.js.map": "/pet-project-yami/static/js/683.36caae6f.chunk.js.map",
+    "103.9ef96e9d.chunk.js.map": "/pet-project-yami/static/js/103.9ef96e9d.chunk.js.map",
+    "597.75314899.chunk.js.map": "/pet-project-yami/static/js/597.75314899.chunk.js.map",
+    "925.d36500cd.chunk.js.map": "/pet-project-yami/static/js/925.d36500cd.chunk.js.map",
+    "442.b751bfa8.chunk.js.map": "/pet-project-yami/static/js/442.b751bfa8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.b33d7f15.js"
   ]
 }

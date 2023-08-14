@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_pet_project=self.webpackChunkreact_pet_project||[]).push([[103],{103:function(e,t,n){n.r(t);var r=n(184);t.default=function(){return(0,r.jsx)("div",{style:{height:"100vh",display:"flex",justifyContent:"center",alignItems:"center",fontSize:40,color:"#010101"},children:"Favorites Page"})}}}]);
+//# sourceMappingURL=103.9ef96e9d.chunk.js.map

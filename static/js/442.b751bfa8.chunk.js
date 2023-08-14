@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_pet_project=self.webpackChunkreact_pet_project||[]).push([[442],{442:function(e,t,n){n.r(t);var c=n(184);t.default=function(){return(0,c.jsx)("div",{style:{height:"100vh",display:"flex",justifyContent:"center",alignItems:"center",fontSize:40,color:"#010101"},children:"Single Recipe Page"})}}}]);
+//# sourceMappingURL=442.b751bfa8.chunk.js.map

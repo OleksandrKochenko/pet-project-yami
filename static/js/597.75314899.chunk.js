@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_pet_project=self.webpackChunkreact_pet_project||[]).push([[597],{925:function(e,t,n){n.r(t);var c=n(184);t.default=function(){return(0,c.jsx)("div",{style:{height:"100vh",display:"flex",justifyContent:"center",alignItems:"center",fontSize:40,color:"#010101"},children:"Shoping List Page"})}}}]);
+//# sourceMappingURL=597.75314899.chunk.js.map
