@@ -1,4 +1,4 @@
-const SopingList = () => {
+const ShopingList = () => {
   return (
     <div
       style={{
@@ -15,4 +15,4 @@ const SopingList = () => {
   );
 };
 
-export default SopingList;
+export default ShopingList;
