@@ -1,16 +1,19 @@
+import { Hero } from 'components/homePageComponents/Hero';
+import { RecipesList } from 'components/homePageComponents/RecipesList';
+
 const Home = () => {
   return (
     <div
       style={{
-        height: '100vh',
+        minHeight: '100vh',
         display: 'flex',
+        flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
-        fontSize: 40,
-        color: '#010101',
       }}
     >
-      I'm Home Page
+      <Hero />
+      <RecipesList />
     </div>
   );
 };

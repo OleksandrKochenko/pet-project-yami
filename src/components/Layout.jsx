@@ -25,8 +25,6 @@ const Layout = () => {
           height: '120px',
           width: '100%',
           backgroundColor: 'darkgray',
-          position: 'fixed',
-          bottom: 0,
         }}
       >
         <NavLink to="/">Home</NavLink>
