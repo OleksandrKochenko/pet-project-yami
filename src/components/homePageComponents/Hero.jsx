@@ -2,10 +2,10 @@ export const Hero = () => {
   return (
     <section>
       <h1>SoYummy</h1>
-      <p>
+      {/* <p>
         "What to cook?" is not only a recipe app, it is, in fact, your cookbook.
         You can add your own recipes to save them for the future.
-      </p>
+      </p> */}
       <form action="" onSubmit={() => {}}>
         <input type="text" placeholder="beef" />
         <button type="button">Search</button>
