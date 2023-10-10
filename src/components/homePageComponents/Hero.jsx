@@ -12,7 +12,7 @@ export const Hero = () => {
       </form>
       <aside>
         Delicious and healthy way to enjoy a variety of fresh ingredients in one
-        satisfying meal
+        satisfying meal!!
         <a href="/">See recipes</a>
       </aside>
     </section>
