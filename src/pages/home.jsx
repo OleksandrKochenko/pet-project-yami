@@ -1,9 +1,10 @@
 import { Hero } from 'components/homePageComponents/Hero';
 import { RecipesList } from 'components/homePageComponents/RecipesList';
+import css from '../styles/home.module.css'
 
 const Home = () => {
   return (
-    <div
+    <div className={css.home}
       style={{
         minHeight: '100vh',
         display: 'flex',

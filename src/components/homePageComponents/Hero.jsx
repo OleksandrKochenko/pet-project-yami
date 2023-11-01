@@ -1,8 +1,16 @@
+import css from '../../styles/home.module.css';
+
 export const Hero = () => {
   return (
-    <section>
-      <h1>SoYummy</h1>
-      <p>
+    <section className={css.wrapper}>
+      <div className={css.wrapper_leaf}>
+        <div className={css.container}>
+
+          <h1 className={css.title}>
+            <span className={css.title_start}>So</span>Yummy
+          </h1>
+
+      <p  className={css.text}>
         "What to cook?" is not only a recipe app, it is, in fact, your cookbook.
         You can add your own recipes to save them for the future.
       </p>
@@ -14,7 +22,7 @@ export const Hero = () => {
         Delicious and healthy way to enjoy a variety of fresh ingredients in one
         satisfying meal!!
         <a href="/">See recipes</a>
-      </aside>
+      </aside></div></div>
     </section>
   );
 };
